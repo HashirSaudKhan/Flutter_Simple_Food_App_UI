@@ -1,4 +1,4 @@
-# Food X App
+# Flutter X Food App
 
 A Simple Food App Flutter project.
 
